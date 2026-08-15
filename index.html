@@ -8,68 +8,44 @@
     h1 { border-bottom: 2px solid #38bdf8; padding-bottom: 10px; }
     .card { background: #1e293b; border-radius: 8px; padding: 16px; margin-bottom: 16px; border: 1px solid #334155; }
     .card h3 { margin-top: 0; color: #38bdf8; }
-    .summary { font-size: 0.95rem; line-height: 1.5; color: #cbd5e1; }
-    button { background: #38bdf8; border: none; padding: 10px 16px; border-radius: 6px; font-weight: bold; cursor: pointer; }
-    button:hover { background: #7dd3fc; }
+    .source { font-size: 0.8rem; background: #334155; padding: 2px 8px; border-radius: 4px; color: #94a3b8; }
+    .summary { font-size: 0.95rem; line-height: 1.5; color: #cbd5e1; white-space: pre-line; }
+    a { color: #38bdf8; text-decoration: none; font-size: 0.85rem; }
+    a:hover { text-decoration: underline; }
   </style>
 </head>
 <body>
 
   <h1>Mein News Dashboard</h1>
-  <button onclick="loadNews()">Nachrichten laden & zusammenfassen</button>
-  <div id="news-container" style="margin-top: 20px;"></div>
+  <div id="news-container">Lade Nachrichten...</div>
 
   <script>
-    const GEMINI_API_KEY = "AQ.Ab8RN6Lpoh1RIOak5deLWwRfdK4kCKYLHqgw0gjW8Z-sclzDww"; // Key hier einfügen
-    const RSS_URL = "https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml";
-
     async function loadNews() {
       const container = document.getElementById("news-container");
-      container.innerHTML = "<p>Lade und analysiere Nachrichten...</p>";
-
       try {
-        // 1. RSS Feed via kostenlose RSS2JSON API abrufen
-        const res = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(RSS_URL)}`);
-        const data = await res.json();
-        const items = data.items.slice(0, 3); // Die ersten 3 Artikel nehmen
+        // Läuft über die von der GitHub Action generierte news.json
+        const res = await fetch("./news.json?cache=" + Date.now());
+        const items = await res.json();
 
         container.innerHTML = "";
 
-        // 2. Jeden Artikel an Gemini schicken
-        for (const item of items) {
-          const summary = await summarizeWithGemini(item.title, item.description);
-          
+        items.forEach(item => {
           const card = document.createElement("div");
           card.className = "card";
           card.innerHTML = `
+            <span class="source">${item.source}</span>
             <h3>${item.title}</h3>
-            <p class="summary"><strong>KI-Summary:</strong> ${summary}</p>
-            <a href="${item.link}" target="_blank" style="color: #94a3b8; font-size: 0.85rem;">Zum Original-Artikel →</a>
+            <p class="summary">${item.summary}</p>
+            <a href="${item.link}" target="_blank">Zum Original-Artikel →</a>
           `;
           container.appendChild(card);
-        }
+        });
       } catch (err) {
-        container.innerHTML = "<p>Fehler beim Laden der Nachrichten.</p>";
-        console.error(err);
+        container.innerHTML = "<p>Noch keine Nachrichten verfügbar. Starte die GitHub Action zuerst!</p>";
       }
     }
 
-    async function summarizeWithGemini(title, content) {
-      const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${GEMINI_API_KEY}`;
-      
-      const prompt = `Fasse folgenden News-Artikel in maximal 2 prägnanten Bullet Points auf Deutsch zusammen. Antworte nur mit den Stichpunkten.\n\nTitel: ${title}\nInhalt: ${content}`;
-
-      const response = await fetch(url, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          contents: [{ parts: [{ text: prompt }] }]
-        })
-      });
-
-      const data = await response.json();
-      return data.candidates?.[0]?.content?.parts?.[0]?.text || "Keine Zusammenfassung verfügbar.";
-    }
+    loadNews();
   </script>
 </body>
 </html>
