@@ -4,7 +4,7 @@ on:
   schedule:
     # Läuft alle 6 Stunden (00:00, 06:00, 12:00, 18:00 UTC)
     - cron: '0 */6 * * *'
-  # Erlaubt es dir, den Job manuell über die GitHub-Oberfläche zu starten
+  # Erlaubt manuelles Ausführen im GitHub Actions Tab
   workflow_dispatch:
 
 jobs:
@@ -19,6 +19,9 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+
+      - name: SDK installieren
+        run: pip install google-genai
 
       - name: Skript ausführen
         env:
