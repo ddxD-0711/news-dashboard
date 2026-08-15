@@ -1,20 +1,20 @@
 [
   {
     "source": "Tagesschau",
+    "title": "Waldbrand im Hohen Venn: Sorge in Grenzregion wegen Feuer in Belgien",
+    "link": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-hohes-venn-100.html",
+    "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}"
+  },
+  {
+    "source": "Tagesschau",
+    "title": "Bundeswehr unterstützt UN-Einsatz in Haiti mit Lufttransport",
+    "link": "https://www.tagesschau.de/ausland/bundeswehr-haiti-100.html",
+    "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}"
+  },
+  {
+    "source": "Tagesschau",
     "title": "Feuer in NRW: \"Erste Hoffnung\" und Suche nach der Brandursache",
     "link": "https://www.tagesschau.de/inland/nrw-waldbrand-100.html",
-    "summary": "Zusammenfassung derzeit nicht verfügbar."
-  },
-  {
-    "source": "Tagesschau",
-    "title": "Liebmann schwimmt über 1.500 Meter Freistil Weltrekord und holt EM-Gold",
-    "link": "https://www.tagesschau.de/sport/johannes-liebmann-gold-schwimm-em-100.html",
-    "summary": "Zusammenfassung derzeit nicht verfügbar."
-  },
-  {
-    "source": "Tagesschau",
-    "title": "Spanische Exklave Ceuta: Viele Sicherheitskräfte, Chaos ausgeblieben",
-    "link": "https://www.tagesschau.de/ausland/europa/ceuta-278.html",
-    "summary": "Zusammenfassung derzeit nicht verfügbar."
+    "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}"
   }
 ]
