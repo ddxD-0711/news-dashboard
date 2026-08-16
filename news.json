@@ -1,20 +1,20 @@
 [
   {
     "source": "Tagesschau",
-    "title": "Hoffnung auf Überlebende nach Erdbeben in Kolumbien schwindet",
-    "link": "https://www.tagesschau.de/ausland/amerika/opfer-erdbeben-kolumbien-100.html",
+    "title": "Russland greift Kiew erneut mit ballistischen Raketen an",
+    "link": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-ukraine-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Leichtathletik-EM: Speerwerfer Julian Weber gewinnt Gold",
-    "link": "https://www.tagesschau.de/sport/speerwerfer-julian-weber-gold-100.html",
+    "title": "Neue Lage im Heimatland: Immer mehr Syrer verlieren Schutzstatus",
+    "link": "https://www.tagesschau.de/inland/bundesregierung-syrer-schutzstatus-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Brand in NRW: Bewohner dürfen nach Evakuierung zurück in ihre Häuser",
-    "link": "https://www.tagesschau.de/inland/nrw-waldbrand-102.html",
+    "title": "Hochbetrieb an Bergseen: Wenn Erholung zur Belastung für die Natur wird",
+    "link": "https://www.tagesschau.de/inland/gesellschaft/overtourism-bergseen-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}"
   }
 ]
