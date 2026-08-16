@@ -1,20 +1,20 @@
 [
   {
     "source": "Tagesschau",
-    "title": "Waldbrand im Hohen Venn: Sorge in Grenzregion wegen Feuer in Belgien",
-    "link": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-hohes-venn-100.html",
+    "title": "Hoffnung auf Überlebende nach Erdbeben in Kolumbien schwindet",
+    "link": "https://www.tagesschau.de/ausland/amerika/opfer-erdbeben-kolumbien-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Bundeswehr unterstützt UN-Einsatz in Haiti mit Lufttransport",
-    "link": "https://www.tagesschau.de/ausland/bundeswehr-haiti-100.html",
+    "title": "Leichtathletik-EM: Speerwerfer Julian Weber gewinnt Gold",
+    "link": "https://www.tagesschau.de/sport/speerwerfer-julian-weber-gold-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Feuer in NRW: \"Erste Hoffnung\" und Suche nach der Brandursache",
-    "link": "https://www.tagesschau.de/inland/nrw-waldbrand-100.html",
+    "title": "Brand in NRW: Bewohner dürfen nach Evakuierung zurück in ihre Häuser",
+    "link": "https://www.tagesschau.de/inland/nrw-waldbrand-102.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}"
   }
 ]
