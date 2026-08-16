@@ -1,20 +1,20 @@
 [
   {
     "source": "Tagesschau",
-    "title": "Diese Baustellen warten auf die Bundesregierung nach der Sommerpause",
-    "link": "https://www.tagesschau.de/inland/innenpolitik/sommerpause-themen-bundesregierung-100.html",
+    "title": "Waldbrand in Belgien bringt Einsatzkräfte an ihre Grenzen",
+    "link": "https://www.tagesschau.de/ausland/europa/waldbrand-belgien-monschau-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Kritik an Staat und Betreibern nach Fährunglück mit 80 Toten in Simbabwe",
-    "link": "https://www.tagesschau.de/ausland/afrika/simbabwe-faehrunglueck-kariba-100.html",
+    "title": "Nach Erdbeben mit mehr als 50 Toten: Hilfsmaßnahmen in Indonesien laufen an",
+    "link": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-138.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Ukrainischer Veteran: Vom Patienten zum Prothesenmacher",
-    "link": "https://www.tagesschau.de/inland/gesellschaft/ukraine-kriegsversehrte-hilfe-100.html",
+    "title": "Dieser Sommer ist selbst für Italien extrem",
+    "link": "https://www.tagesschau.de/ausland/europa/italien-hitze-staedte-landwirtschaft-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}"
   }
 ]
