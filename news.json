@@ -1,20 +1,20 @@
 [
   {
     "source": "Tagesschau",
-    "title": "Südkorea und USA beginnen gemeinsame Militärübung",
-    "link": "https://www.tagesschau.de/ausland/asien/suedkorea-usa-militaeruebung-102.html",
+    "title": "USA: Protest und Zerstörungswut gegen Flock-Kameras",
+    "link": "https://www.tagesschau.de/ausland/amerika/usa-widerstand-flock-kameras-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Tschechiens Regierung beruft für heute \"Dürre-Gipfel\" ein",
-    "link": "https://www.tagesschau.de/ausland/europa/tschechien-duerre-gipfel-100.html",
+    "title": "Umweltverbände unterstützen Hitzeschutz-Pläne der SPD",
+    "link": "https://www.tagesschau.de/inland/innenpolitik/hitzeschutz-plaene-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Hindernisläufer Ruppert gewinnt EM-Goldmedaille, Bebendorf Bronze",
-    "link": "https://www.tagesschau.de/sport/em-leichtathletik-hindernis-ruppert-gold-102.html",
+    "title": "Mehr abgelehnte Asylbewerber reisten im ersten Halbjahr freiwillig aus",
+    "link": "https://www.tagesschau.de/inland/asylsuchende-freiwillige-ausreise-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}"
   }
 ]
