@@ -1,20 +1,20 @@
 [
   {
     "source": "Tagesschau",
-    "title": "USA: Protest und Zerstörungswut gegen Flock-Kameras",
-    "link": "https://www.tagesschau.de/ausland/amerika/usa-widerstand-flock-kameras-100.html",
-    "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}"
+    "title": "Amthor gegen Grundgesetzänderung für Klimaanpassung",
+    "link": "https://www.tagesschau.de/inland/innenpolitik/amthor-klimaanpassung-100.html",
+    "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Umweltverbände unterstützen Hitzeschutz-Pläne der SPD",
-    "link": "https://www.tagesschau.de/inland/innenpolitik/hitzeschutz-plaene-100.html",
-    "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}"
+    "title": "Bundeswehr erreicht Personalziel für das Jahr 2026",
+    "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-personalziel-100.html",
+    "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Mehr abgelehnte Asylbewerber reisten im ersten Halbjahr freiwillig aus",
-    "link": "https://www.tagesschau.de/inland/asylsuchende-freiwillige-ausreise-100.html",
-    "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}"
+    "title": "Krieg gegen die Ukraine: Russland greift erneut Region Odessa an",
+    "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-odessa-102.html",
+    "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   }
 ]
