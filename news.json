@@ -1,20 +1,20 @@
 [
   {
     "source": "Tagesschau",
-    "title": "Wie Kürzungen die humanitäre Hilfe verändern",
-    "link": "https://www.tagesschau.de/inland/innenpolitik/humanitaere-hilfe-bundesregierung-100.html",
+    "title": "Tote bei israelischem Luftangriff auf Polizeiwache in Gaza",
+    "link": "https://www.tagesschau.de/ausland/asien/gaza-klinik-tote-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Nach Waldbrand in Südfrankreich: Wie kann der Wald resilienter werden?",
-    "link": "https://www.tagesschau.de/ausland/europa/nach-waldbrand-frankreich-bordeaux-100.html",
+    "title": "Nach Hackerangriff in Berlin: Problemlösung könnte noch Tage dauern",
+    "link": "https://www.tagesschau.de/inland/regional/berlin/senatsverwaltungen-nach-hackerangriff-vom-landesnetz-getrennt-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Die Spritpreise sind wegen Niedrigwassers erneut gestiegen",
-    "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tanken-spritpreise-steigen-100.html",
+    "title": "Fast jeder vierte Erwachsene schläft zu wenig",
+    "link": "https://www.tagesschau.de/inland/rki-studie-schlafdauer-gesundheit-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   }
 ]
