@@ -1,20 +1,20 @@
 [
   {
     "source": "Tagesschau",
-    "title": "Tote bei israelischem Luftangriff auf Polizeiwache in Gaza",
-    "link": "https://www.tagesschau.de/ausland/asien/gaza-klinik-tote-100.html",
+    "title": "Massive russische Angriffe auf die ukrainische Hauptstadt Kiew",
+    "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-kiew-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Nach Hackerangriff in Berlin: Problemlösung könnte noch Tage dauern",
-    "link": "https://www.tagesschau.de/inland/regional/berlin/senatsverwaltungen-nach-hackerangriff-vom-landesnetz-getrennt-100.html",
+    "title": "Fedorow fordert Wahlen in der Ukraine - während des Krieges",
+    "link": "https://www.tagesschau.de/ausland/europa/ukraine-debatte-wahlen-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Fast jeder vierte Erwachsene schläft zu wenig",
-    "link": "https://www.tagesschau.de/inland/rki-studie-schlafdauer-gesundheit-100.html",
+    "title": "Ernährungssicherheit: Wie sinnvoll sind die Maßnahmen der Politik?",
+    "link": "https://www.tagesschau.de/inland/innenpolitik/ernaehrungssicherheit-landwirtschaft-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   }
 ]
