@@ -1,20 +1,20 @@
 [
   {
     "source": "Tagesschau",
-    "title": "Massive russische Angriffe auf die ukrainische Hauptstadt Kiew",
-    "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-kiew-100.html",
+    "title": "\"Beispielloser Wirtschaftskrieg\" - was steckt hinter Trumps Drohung?",
+    "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-222.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Fedorow fordert Wahlen in der Ukraine - während des Krieges",
-    "link": "https://www.tagesschau.de/ausland/europa/ukraine-debatte-wahlen-100.html",
+    "title": "Krieg in Nahost: Immer mehr Israelis verlassen das Land",
+    "link": "https://www.tagesschau.de/ausland/asien/israel-krieg-nahost-auswanderer-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Ernährungssicherheit: Wie sinnvoll sind die Maßnahmen der Politik?",
-    "link": "https://www.tagesschau.de/inland/innenpolitik/ernaehrungssicherheit-landwirtschaft-100.html",
+    "title": "Tote und Schäden nach heftigen Unwettern in Teilen Deutschland",
+    "link": "https://www.tagesschau.de/inland/unwetter-deutschland-180.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   }
 ]
