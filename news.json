@@ -1,20 +1,20 @@
 [
   {
     "source": "Tagesschau",
-    "title": "\"Beispielloser Wirtschaftskrieg\" - was steckt hinter Trumps Drohung?",
-    "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-222.html",
+    "title": "Urlaub in Dänemark boomt - vor allem bei Deutschen",
+    "link": "https://www.tagesschau.de/ausland/europa/daenemark-tourismus-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Krieg in Nahost: Immer mehr Israelis verlassen das Land",
-    "link": "https://www.tagesschau.de/ausland/asien/israel-krieg-nahost-auswanderer-100.html",
+    "title": "Plagiatsvorwürfe: Berliner Senatorin lässt ihre Doktorarbeit prüfen",
+    "link": "https://www.tagesschau.de/inland/regional/berlin/senatorin-badenberg-laesst-doktorarbeit-nach-plagiatsvorwuerfen-pruefen-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Tote und Schäden nach heftigen Unwettern in Teilen Deutschland",
-    "link": "https://www.tagesschau.de/inland/unwetter-deutschland-180.html",
+    "title": "Forschungserfolg treibt Aktien von Moderna & Co.",
+    "link": "https://www.tagesschau.de/wirtschaft/finanzen/moderna-merck-impfstoff-hautkrebs-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   }
 ]
