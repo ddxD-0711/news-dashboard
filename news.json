@@ -1,20 +1,20 @@
 [
   {
     "source": "Tagesschau",
-    "title": "Mehr als 300 Festnahmen wegen Bränden in Griechenland",
-    "link": "https://www.tagesschau.de/ausland/europa/griechenland-waldbraende-festnahmen-100.html",
+    "title": "Korruptionsskandal in der Ukraine weitet sich aus",
+    "link": "https://www.tagesschau.de/ausland/europa/ukraine-korruption-selenskyj-102.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Südkorea und USA beenden Militärübung vorzeitig",
-    "link": "https://www.tagesschau.de/ausland/asien/suedkorea-usa-militaermanoever-100.html",
+    "title": "Tote und Verletzte nach Angriffen auf ukrainisches Einkaufszentrum",
+    "link": "https://www.tagesschau.de/ausland/europa/russland-angriff-einkaufszentrum-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Wo Cannabis boomt und wo es Probleme gibt",
-    "link": "https://www.tagesschau.de/inland/gesellschaft/cannabis-teillegalisierung-debatte-100.html",
+    "title": "Ukraine verbietet beliebte Zeichentrickserie \"Mascha und der Bär\"",
+    "link": "https://www.tagesschau.de/ausland/europa/ukraine-zeichentrickserie-russland-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   }
 ]
