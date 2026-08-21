@@ -1,20 +1,20 @@
 [
   {
     "source": "Tagesschau",
-    "title": "Erdbeben erschüttert Andenregion in Peru",
-    "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-peru-104.html",
+    "title": "Russland unter Verdacht: Geheimes Waffendepot bei Berlin entdeckt",
+    "link": "https://www.tagesschau.de/investigativ/ndr-wdr/geheimes-waffendepot-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Umgang mit Migranten in Ceuta: Politische und humanitäre Bankrotterklärung",
-    "link": "https://www.tagesschau.de/kommentar/ceuta-migranten-kommentar-100.html",
+    "title": "Studie: Aufmerksamkeit kann Juckreiz lindern",
+    "link": "https://www.tagesschau.de/wissen/gesundheit/studie-aufmerksamkeit-juckreiz-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Nordrhein-Westfalen: Waldbrand in Hürtgenwald bei Aachen endgültig gelöscht",
-    "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/waldbrand-huertgenwald-110.html",
+    "title": "Städtetag fordert Pflegevollversicherung zur Entlastung der Kommunen",
+    "link": "https://www.tagesschau.de/inland/innenpolitik/staedtetag-pflege-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   }
 ]
