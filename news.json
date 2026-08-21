@@ -1,20 +1,20 @@
 [
   {
     "source": "Tagesschau",
-    "title": "Russland unter Verdacht: Geheimes Waffendepot bei Berlin entdeckt",
-    "link": "https://www.tagesschau.de/investigativ/ndr-wdr/geheimes-waffendepot-100.html",
+    "title": "Mehr als 300 Festnahmen wegen Bränden in Griechenland",
+    "link": "https://www.tagesschau.de/ausland/europa/griechenland-waldbraende-festnahmen-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Studie: Aufmerksamkeit kann Juckreiz lindern",
-    "link": "https://www.tagesschau.de/wissen/gesundheit/studie-aufmerksamkeit-juckreiz-100.html",
+    "title": "Südkorea und USA beenden Militärübung vorzeitig",
+    "link": "https://www.tagesschau.de/ausland/asien/suedkorea-usa-militaermanoever-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Städtetag fordert Pflegevollversicherung zur Entlastung der Kommunen",
-    "link": "https://www.tagesschau.de/inland/innenpolitik/staedtetag-pflege-100.html",
+    "title": "Wo Cannabis boomt und wo es Probleme gibt",
+    "link": "https://www.tagesschau.de/inland/gesellschaft/cannabis-teillegalisierung-debatte-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   }
 ]
