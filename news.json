@@ -1,20 +1,20 @@
 [
   {
     "source": "Tagesschau",
-    "title": "Druck auf Transmenschen in den USA: \"Das ist entmenschlichend\"",
-    "link": "https://www.tagesschau.de/ausland/amerika/usa-transmenschen-100.html",
+    "title": "Wie Künstliche Intelligenz die Justiz ausbremst",
+    "link": "https://www.tagesschau.de/inland/gesellschaft/kuenstliche-intelligenz-justiz-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Kanzler Merz besucht Waldbrandgebiet in NRW",
-    "link": "https://www.tagesschau.de/inland/innenpolitik/merz-waldbrand-besuch-100.html",
+    "title": "Wadephul verspricht der Ukraine weitere humanitäre Hilfe",
+    "link": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-106.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Klingbeil macht Vorstoß für Übergewinnsteuer bei Ölkonzernen",
-    "link": "https://www.tagesschau.de/inland/innenpolitik/uebergewinnsteuer-klingbeil-eu-100.html",
+    "title": "Aldi gegen Lidl: Discounter-Zoff um den günstigsten Preis",
+    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/aldi-lidl-discounter-wettbewerb-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   }
 ]
