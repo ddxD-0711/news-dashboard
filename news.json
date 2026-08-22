@@ -1,20 +1,20 @@
 [
   {
     "source": "Tagesschau",
-    "title": "Magdeburg: Kaiser Otto der Große bekommt neues Grab",
-    "link": "https://www.tagesschau.de/kultur/kaisergrab-otto-der-grosse-magdeburger-dom-100.html",
+    "title": "Handelsgespräche gescheitert - USA verhängen Strafzölle gegen Kanada",
+    "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-kanada-handelsstreit-zoelle-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Siedlungsbau im Westjordanland: Stresstest für Israels Verhältnis zu Europa",
-    "link": "https://www.tagesschau.de/ausland/asien/israel-siedlungspolitik-eu-100.html",
+    "title": "Diebstahl in der Pflege: Wie sich Betroffene schützen können",
+    "link": "https://www.tagesschau.de/inland/gesellschaft/diebstahl-senioren-pflege-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "US-Ermittlungen gegen TikTok enden mit 400-Millionen-Dollar-Vergleich",
-    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tiktok-vergleich-usa-100.html",
+    "title": "Außenminister Wadephul zu unangekündigtem Besuch in der Ukraine",
+    "link": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   }
 ]
