@@ -1,20 +1,20 @@
 [
   {
     "source": "Tagesschau",
-    "title": "Korruptionsskandal in der Ukraine weitet sich aus",
-    "link": "https://www.tagesschau.de/ausland/europa/ukraine-korruption-selenskyj-102.html",
+    "title": "Magdeburg: Kaiser Otto der Große bekommt neues Grab",
+    "link": "https://www.tagesschau.de/kultur/kaisergrab-otto-der-grosse-magdeburger-dom-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Tote und Verletzte nach Angriffen auf ukrainisches Einkaufszentrum",
-    "link": "https://www.tagesschau.de/ausland/europa/russland-angriff-einkaufszentrum-100.html",
+    "title": "Siedlungsbau im Westjordanland: Stresstest für Israels Verhältnis zu Europa",
+    "link": "https://www.tagesschau.de/ausland/asien/israel-siedlungspolitik-eu-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   },
   {
     "source": "Tagesschau",
-    "title": "Ukraine verbietet beliebte Zeichentrickserie \"Mascha und der Bär\"",
-    "link": "https://www.tagesschau.de/ausland/europa/ukraine-zeichentrickserie-russland-100.html",
+    "title": "US-Ermittlungen gegen TikTok enden mit 400-Millionen-Dollar-Vergleich",
+    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tiktok-vergleich-usa-100.html",
     "summary": "Zusammenfassung derzeit nicht verfügbar. Fehler: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
   }
 ]
